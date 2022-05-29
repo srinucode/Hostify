@@ -519,6 +519,7 @@ a {
   padding: var(--padding-vertical) 2rem;
 }
 .block__header {
+  margin-bottom: 4rem;
   text-align: center;
 }
 .block__heading {
